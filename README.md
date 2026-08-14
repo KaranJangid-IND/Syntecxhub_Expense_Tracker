@@ -73,7 +73,7 @@ Support attaching receipts or other relevant documents to expense entries.
 Go to the project directory
 
 ```bash
-  cd Expense-Tracker-App
+  cd Expense_Tracker
 ```
 
 Go to the frontend directory and Install dependencies
