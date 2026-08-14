@@ -1,4 +1,3 @@
-
 # Expense Management System using MERN Stack
 
 ## Project Description:
@@ -17,7 +16,6 @@
 
 ## Features
 
-
 - User Authentication and Authorization:
 
     Allow users to sign up and log in to their personal accounts using secure authentication mechanisms.
@@ -35,7 +33,6 @@ Support attaching receipts or other relevant documents to expense entries.
 
     Generate reports based on selected date ranges and categories, displaying pie charts and bar graphs to help users understand their spending patterns.
     
-
 - Responsive User Interface:
 
     Design a clean, responsive user interface that works seamlessly across desktop, tablet, and mobile devices.
